@@ -19,7 +19,7 @@ print("8" in a)
 
 ## Output
 
-<img width="740" height="190" alt="image" src="https://github.com/user-attachments/assets/1eada1ee-053f-4216-a425-1b9d6fb64d8c" />
+<img width="831" height="216" alt="image" src="https://github.com/user-attachments/assets/d0db2232-218a-4f2c-98fd-d50144daae5a" />
 
 ## Result
 
